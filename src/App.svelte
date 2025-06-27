@@ -70,7 +70,7 @@
         <div class="w-full mb-6">
             <Header title="TGL Signal Banner Tool" />
         </div>
-        <div class="flex items-center min-h-[60vh] w-full">
+        <div class="flex flex-col md:flex-row items-center min-h-[60vh] w-full">
             <div class="flex flex-col flex-[3] p-8 items-center max-w-4xl w-full h-full">
                 <div class="container w-full max-w-xl">
                     <div class="flex flex-col justify-center card-body">

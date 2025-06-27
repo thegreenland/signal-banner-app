@@ -3,7 +3,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 
 export default defineConfig({
     plugins: [svelte()],
-    base: './',
+    base: '/signal-banner-app/',
     server: {
         host: true,  // Changed from '127.0.0.1' to true to allow all network access
         port: 5173,
