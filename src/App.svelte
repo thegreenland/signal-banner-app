@@ -128,7 +128,7 @@
                 <div class="card-body card-border flex flex-col justify-between h-full">
                     <p class="text-emerald-500">
                         <span class="font-bold">
-                            TEST: Maak een kleine vuist tegen de uitbuiting van ons digitale leven door Big Tech! 
+                            Maak een kleine vuist tegen de uitbuiting van ons digitale leven door Big Tech! 
                             <br><br>
                         </span>
                         <span class="italic">- "Maar heeft dat zin dan?"</span> <br><br> Absoluut - de waarde van sociale media platforms wordt alleen bepaald door het aantal gebruikers, dus we kunnen samen het tij keren. <br><br>Zie:
